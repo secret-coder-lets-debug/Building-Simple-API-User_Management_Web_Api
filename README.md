@@ -1,6 +1,6 @@
 # User Management Web API
 
-![Picture of Project](./images/images_title.jpeg.jpg)
+![Picture of Project](./imagesuser_management_api)
 
 ## Table of Contents
 - [User Management Web API](#user-management-web-api)
