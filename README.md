@@ -1,7 +1,6 @@
 # User Management Web API
 
-![Picture of Project](./images/images_title.jepg.jpg)
-## Table of Contents
+![User Management Web API](images/user_management_api.svg)## Table of Contents
 - [User Management Web API](#user-management-web-api)
   - [Table of Contents](#table-of-contents)
   - [Summary](#summary)
